@@ -1,5 +1,5 @@
 # include <iostream>
-# include <limits.h>
+# include <climits>
 using namespace std;
 
 int maxSquareWithAllZeroes(int **grid, int rows, int columns) {
